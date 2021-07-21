@@ -1,0 +1,15 @@
+.login-page{
+    background-color: #00131f !important;
+}
+
+/*.content-wrapper {
+
+}*/
+
+.main-footer {
+    background: #343a40 !important;
+    border-top: 1px solid #dee2e6;
+    color: #ffffff;
+    padding: 1rem;
+    font-size: 12px;
+}
