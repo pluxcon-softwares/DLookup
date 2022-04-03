@@ -16,14 +16,14 @@ class AdminsTableSeeder extends Seeder
     {
         $admin = Admin::create([
             'name'  =>  'system',
-            'email' => 'prolabdomains@gmail.com',
-            'password'  => '@@FOrcehackhts22@@'
+            'email' => 'system@app.com',
+            'password'  => '123456789'
         ]);
 
         $admin = Admin::create([
             'name'  =>  'Admin',
-            'email' => 'admin@localhost.test',
-            'password'  => '123456'
+            'email' => 'admin@app.com',
+            'password'  => '123456789'
         ]);
     }
 }
